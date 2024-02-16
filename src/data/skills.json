@@ -1,0 +1,74 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Sass",
+    "imageSrc": "skills/sass.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Heroku",
+    "imageSrc": "skills/heroku.png"
+  },
+  {
+    "title": "Netlify",
+    "imageSrc": "skills/netlify.png"
+  },
+  {
+    "title": "Vercel",
+    "imageSrc": "skills/vercel.png"
+  },
+  {
+    "title": "VS Code",
+    "imageSrc": "skills/vscode.png"
+  },
+  {
+    "title": "Vite",
+    "imageSrc": "skills/vite.png"
+  }
+]

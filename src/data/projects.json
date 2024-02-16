@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Travel Touism",
+    "imageSrc": "projects/traveller.jpg",
+    "description": "Traveller is a website for a travel agency. The website contains details about tourist destinations and tour packages. This website allows people to book their dream destination within their budgets.",
+    "skills": ["HTML", "CSS", "JavaScript","Bootstrap","GitHub","Heroku","Netlify"],
+    "demo": "https://spiritual-school-8644-travel-tour.netlify.app/",
+    "source": "https://github.com/Skchouhan753/Traveller"
+  },
+  
+  {
+    "title": "EduSprint",
+    "imageSrc": "projects/edusprint.jpg",
+    "description": "Explore top courses from renowned universities on EduSprint. Enhance your skills with comprehensive learning opportunities. Join now to access a world of knowledge.",
+    "skills": ["React", "Redux", "Heroku","GitHub","Netlify","Chakra UI"],
+    "demo": "https://software-kalaakar-5678.netlify.app/",
+    "source": "https://github.com/Skchouhan753/software-kalaakar-5678"
+  },
+  {
+    "title": "WonderWave Travels",
+    "imageSrc": "projects/wonderwave.png",
+    "description": "Explore India with curated tour packages. Our responsive website, built in just 5 days using HTML, CSS, and JavaScript, offers a seamless booking experience. Discover every corner of India with us.",
+    "skills": ["HTML", "CSS", "JavaScript","Bootstrap","Sass", "Heroku", "Netlify","GitHub"],
+    "demo": "https://wonderwave-travels.vercel.app/",
+    "source": "https://github.com/Skchouhan753/wonderwave-travels"
+  }
+]
